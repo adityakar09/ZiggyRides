@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "510575133904",
+    "project_id": "ziggy-rides",
+    "storage_bucket": "ziggy-rides.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510575133904:android:1975bee76a11dd24504ad5",
+        "android_client_info": {
+          "package_name": "com.example.zippyrides"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510575133904-4ch173uiga2melg5nrm4uf879gqb8i98.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zippyrides",
+            "certificate_hash": "b09eb96b31d0661c7be233bb4bad20784a94f104"
+          }
+        },
+        {
+          "client_id": "510575133904-n4trhdljnmijekcrsq3v6l5hj734t3an.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDecrioYdLBqjwU8WYGOHt8It_JXABuPNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510575133904-n4trhdljnmijekcrsq3v6l5hj734t3an.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
